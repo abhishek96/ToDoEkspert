@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDoEkspert</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="enter_password">Enter your password *shh*</string>
+    <string name="enter_username">Enter your username :)</string>
+    <string name="title_activity_list">ToDoList</string>
+    <string name="title_activity_add_to_do_list">Add New ToDo</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>

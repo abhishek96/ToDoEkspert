@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ToDoEkspert="http://schemas.android.com/apk/res-auto"
+    tools:context="com.abhi.todoekspert.ListActivity">
+    <item
+        android:id="@+id/action_add"
+        android:title="Add"
+        android:icon="@drawable/ic_action_new"
+        android:orderInCategory="100"
+        ToDoEkspert:showAsAction="always"
+        />
+    <item
+        android:id="@+id/action_refresh"
+        android:title="Refresh"
+        android:icon="@drawable/ic_action_refresh"
+        android:orderInCategory="100"
+        ToDoEkspert:showAsAction="always"
+        />
+
+
+    <item
+        android:id="@+id/action_logout"
+        ToDoEkspert:showAsAction="never"
+        android:title="Logout"
+        android:orderInCategory="102"/>
+
+
+
+
+
+
+
+</menu>
